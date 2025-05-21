@@ -1,0 +1,7 @@
+[
+    {
+        "userId": 5,
+        "attemptedEmail": "hopethis.works@wps-allianz.de",
+        "error": "Email already exists for user ID 4"
+    }
+]

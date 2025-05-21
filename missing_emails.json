@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "firstname": "Claudia",
+        "lastname": "Schmidt",
+        "email": null,
+        "is_external": false
+    },
+    {
+        "id": 2,
+        "firstname": "Tick",
+        "lastname": "Tock",
+        "email": null,
+        "is_external": true
+    },
+    {
+        "id": 3,
+        "firstname": "Howard",
+        "lastname": "Mushroom",
+        "email": null,
+        "is_external": true
+    },
+    {
+        "id": 4,
+        "firstname": "Hopethis",
+        "lastname": "Works",
+        "email": null,
+        "is_external": false
+    },
+    {
+        "id": 5,
+        "firstname": "Hopethis",
+        "lastname": "Works",
+        "email": null,
+        "is_external": false
+    },
+    {
+        "id": 6,
+        "firstname": "Hopethis",
+        "lastname": "Works",
+        "email": null,
+        "is_external": true
+    }
+]
